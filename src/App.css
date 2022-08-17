@@ -303,9 +303,7 @@ h1 {
   .joinChatContainer p {
     font-size: 0.8rem;
   }
-  .chat-window .chat-footer button {
-    padding: 0px !important;
-  }
+
   .chat-window .chat-footer input {
     border-right: none;
   }
