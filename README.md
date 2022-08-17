@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# realtime-chat-client
+React + Socket.io で構築したチャットアプリ（クライアントサイド）
 
 ## Image
 
@@ -12,7 +11,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 |---|
 |<img width="1439" alt="Screen Shot 2022-08-17 at 13 59 41" src="https://user-images.githubusercontent.com/92189386/185038402-80475919-457e-420e-ba13-082c16ab556f.png">|
 
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -80,4 +81,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# realtime-chat-client
