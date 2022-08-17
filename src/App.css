@@ -239,6 +239,7 @@ h1 {
   display: flex;
   border-bottom-right-radius: 8px;
   border-bottom-left-radius: 8px;
+  background-color: #fff;
 }
 
 .chat-window .chat-footer input {
