@@ -307,6 +307,6 @@ h1 {
     padding: 0px !important;
   }
   .chat-window .chat-footer input {
-    padding: 0 0 0 7em !important;
+    border-right: none;
   }
 }
